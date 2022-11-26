@@ -9,12 +9,8 @@ Admin <br>
 username	: roma <br>
 password	: 1 
 
-Guru <br>
-username	: hendika <br>
-password	: 1 <br>
-
 Murid <br>
-username	: okky <br>
+username	: uud <br>
 password	: 1 <br>
 
 
@@ -22,21 +18,19 @@ password	: 1 <br>
  - Login
  - Level Akun
  - Contact US
+ - informasi pembayaran
  
  Level Akses
  - Admin
    + Akun Control
    + Manajemen Murid
-   + Manajemen Guru
-   + Manajemen Nilai
+   + Manajemen Pembayaran
    + Email / Contact masuk  
-   + Manajemen Matapelajaran
+
    
- - Guru
-   + Manajemen Nilai
    
  - Murid
-   + Melihat Nilai
+   + Melihat Pembayaran
    
 ###################  BUGS  #########################
 - tulis di sini jika ada atau tulis di menu Issues
