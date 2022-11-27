@@ -1,6 +1,5 @@
 # WEB-Sekolah
  Content management system (CMS) untuk Web sekolah <br>
- Untuk contoh runningnya bisa di lihat di sini <br>
  Project ini hanya memakai bootstrap v3 dan tidak memakai framework lain 
  
  
